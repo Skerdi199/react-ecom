@@ -1,6 +1,6 @@
 # Installation
 
-Run : npm install
+Run : npm install, then
 To run application locally run : npm run dev
 
 # React + TypeScript + Vite
